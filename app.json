@@ -1,5 +1,5 @@
 {
-    "name": "Autofilterv5",
+    "name": "aoyofilterv6",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/selfie-bd/autofilterv5",
-    "repository": "https://github.com/Savezmalik002/autofilterv5",
+    "website": "https://github.com/Savezmalik002/aoyofilterv6",
+    "repository": "https://github.com/Savezmalik002/aoyofilterv6",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
